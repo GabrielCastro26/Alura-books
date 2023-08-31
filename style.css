@@ -13,6 +13,7 @@
 --azul: #002f52;
 --fonte-secundaria: "Josefin Sans";
 --preto: #000000;
+--cinza: #474646;
 }
 
 body {
@@ -54,3 +55,5 @@ color: var(--branco);
 font-weight: 700;
 text-decoration: none;
 }
+
+
